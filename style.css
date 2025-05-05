@@ -66,10 +66,7 @@ header{
 }
 
 #text{
-    color: rgba(255, 255, 0, 0.932);
-    font-size: 45px;
-    font-weight: bolder;
-    margin-left: 20px;
+    display: none;
 }
 
 /*************************************************** Hero Section **************************************************/
